@@ -43,7 +43,7 @@ searching an optimisation landscape.
 
 ## Presentation script
 
-🎤 **[Read the presentation script](./script-preso.docx)**
+🎤 **[Read the presentation script](./script-preso.pdf)**
 
 This is the script I used for my presentation at the RSS International Conference
 in September 2026.
